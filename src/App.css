@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Rubick' , sans-serif;
+}
+
+html{
+  font-size: 65.5%;
+}
+
+
